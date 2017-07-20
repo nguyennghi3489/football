@@ -1,0 +1,16 @@
+.video-list{
+    padding: 10px;
+    overflow: hidden;
+    ul{
+        margin: 0 -15px; 
+        padding: 0;
+        li{
+            list-style-type: none;
+            width: percentage(1/3);
+            padding: 0 15px;
+            box-sizing: border-box;
+            float: left;
+            margin-bottom: 30px;
+        }
+    }
+}

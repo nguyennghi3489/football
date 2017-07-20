@@ -1,0 +1,33 @@
+h2 {
+  color: red; }
+  h2 span {
+    color: yellow; }
+
+body {
+  background: #f9f9f9; }
+
+.wrapper {
+  width: 1200px;
+  margin: 0 auto; }
+
+::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #ddd; }
+
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #ddd;
+  opacity: 1; }
+
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #ddd;
+  opacity: 1; }
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #ddd; }
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #ddd; }

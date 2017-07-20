@@ -1,0 +1,23 @@
+.video-item{
+    img{
+        max-width: 100%;
+    }
+    h3{
+        text-align: left;
+        font-size:15px;
+        margin:7px 0;
+    }
+    .misc{
+        .basic{
+            .owner{
+                font-size:13px;
+                color: #222;
+            }
+            .updated_date{
+                font-size:13px;
+                padding-left: 7px;
+                color: #666;
+            }
+        }
+    }
+}
